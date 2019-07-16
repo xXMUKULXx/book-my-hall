@@ -1,0 +1,31 @@
+.header {
+    font-family: 'Cutive Mono', monospace;
+    color: #000;
+    font-size: 28px;
+    top: 10px;
+    position: relative;
+}
+
+.logo {
+    float: left;
+    margin: 10px;
+    width: 40px;
+    height: auto;
+}
+
+.contact-us {
+    font-size: 14px;
+    float: right;
+    position: relative;
+    top: 30px;
+    text-decoration: none;
+    font-family: 'Cutive Mono', monospace;
+}
+
+.contact-us:hover {
+    text-decoration: underline;
+}
+
+.container {
+    border-bottom: 2px solid #eee;
+}

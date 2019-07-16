@@ -1,11 +1,11 @@
 import React from 'react';
 import './styles.css';
 
-const SideList = ({ id, name, place}) => {
+const SideList = (props) => {
         
     return (
-        <li key={name} className="side-list list-element">
-                <span>{name}, {place}</span>
+        <li key={props.id} className="list-element">
+                <span>{props.name}, {props.place}</span>
         </li>
     );
 };

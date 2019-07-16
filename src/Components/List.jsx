@@ -8,14 +8,19 @@ const List = () => {
 
     return (
         <div>
-            {
-                array_of_halls.map(h => (
-                    <SideList
-                        id={h.id}
-                        name={h.name}
-                        place={h.place} />
-                ))
-            }
+            <ul>
+                {
+                    array_of_halls.map(h =>
+                        <div>
+                            <SideList
+                                id={h.id}
+                                name={h.name}
+                                place={h.place} />
+                            <span>{h.id} {h.name} {h.place}</span>
+                        </div>
+                    )
+                }
+            </ul>
         </div>
     );
 };

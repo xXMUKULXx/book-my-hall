@@ -41,17 +41,8 @@
     border-radius: 10px;
 }
 
-
-
-.side-list {
-    color: #E90015;
-}
-
 .list-element {
-    padding-left: 5px;
-    padding-right: 5px;
     color: #E90015;
-    width: 300px;
     text-decoration: none;
 }
 
@@ -59,9 +50,6 @@
     background-color: #E90015;
     color: #fff;
     cursor: pointer;
-}
-.list-element:active {
-    background-color: #E90015;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Raleway&display=swap');

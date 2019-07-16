@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/book-my-hall/static/css/main.855eb62d.chunk.css",
+    "main.js": "/book-my-hall/static/js/main.094d25d7.chunk.js",
+    "main.js.map": "/book-my-hall/static/js/main.094d25d7.chunk.js.map",
+    "runtime~main.js": "/book-my-hall/static/js/runtime~main.a33118c4.js",
+    "runtime~main.js.map": "/book-my-hall/static/js/runtime~main.a33118c4.js.map",
+    "static/js/2.b41502e9.chunk.js": "/book-my-hall/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/book-my-hall/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/book-my-hall/index.html",
+    "precache-manifest.4d6aa1b2b06f12b270d99a0c58bd305c.js": "/book-my-hall/precache-manifest.4d6aa1b2b06f12b270d99a0c58bd305c.js",
+    "service-worker.js": "/book-my-hall/service-worker.js",
+    "static/css/main.855eb62d.chunk.css.map": "/book-my-hall/static/css/main.855eb62d.chunk.css.map"
+  }
+}
